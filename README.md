@@ -24,7 +24,7 @@ Aqui estão alguns dos meus projetos da FATEC mais recentes:
 - Tarefa 2: (https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/POWERBI.pbix)
 - Tarefa 3: (https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/filiaisDAX.pbix)
 - Tarefa 4: (https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/Atividade%204%20-%20PowerBI.pbix)
-
+- POWERAPPS: (https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/LINK%20DO%20APP.txt)
 
 
 ---
